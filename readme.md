@@ -10,7 +10,7 @@ I'm a Flutter Developer passionate about delivering engaging and visually compel
 
 - **Languages**: Dart, Swift, Golang
 - **Frameworks**: Flutter, SwiftUI
-- **APIs/SDKs**: Firebase
+- **APIs/SDKs**: AgoraSDK, Firebase
 - **Tools**: Visual Studio Code, Android Studio, XCode, Git, Postman
 - **Operating Systems**: macOS, Windows, Linux
 - **Version Control**: Git, GitHub
