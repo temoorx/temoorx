@@ -1,85 +1,55 @@
-# Muhammad Taimoor
+# 👋 Hi, I'm Muhammad Taimoor!
 
-## Flutter Developer | UI/UX Designer
+Welcome to my GitHub profile.
 
-Passionate about delivering engaging and visually compelling applications with user-friendly interactions that drive business growth and improve UX. Significant experience in UI/UX design and cross-platform mobile development using Flutter.
+## 👨‍💻 About Me
 
-- **Email:** temoorx@gmail.com
-- **Phone:** +92 3083583661
-- **Location:** Karachi, Pakistan
-- **Date of Birth:** 19 December, 2000
-- **LinkedIn:** [linkedin.com/in/temoorx](https://linkedin.com/in/temoorx)
-- **GitHub:** [github.com/temoorx](https://github.com/temoorx)
+I'm a Flutter Developer passionate about delivering engaging and visually compelling applications with user-friendly interactions. With significant experience in UI/UX design and cross-platform mobile development, I strive to create delightful user experiences on both iOS and Android platforms using Flutter.
 
----
+## 🛠 Technologies & Tools
 
-## Work Experience
+- **Languages**: Dart
+- **Frameworks**: Flutter
+- **APIs/SDKs**: Firebase
+- **Tools**: Visual Studio Code, Android Studio, XCode, Git, Postman
+- **Operating Systems**: macOS, Windows, Linux
+- **Version Control**: Git, GitHub
+- **Others**: RESTful APIs, Google Maps API
 
-### Flutter Developer  
-**Atria Technologies**  
-October 2023 - Present  
-- Implemented design for healthcare applications, creating aesthetically pleasing and user-friendly interfaces.
-- Actively participated in developing innovative features to enhance user experience.
-- Contributed strategically to align development efforts with company's vision and goals.
+## 🌱 Currently Learning
 
-### Flutter Developer  
-**Mentor Health**  
-February 2023 - October 2023  
-- Maintained and managed health tech application, ensuring smooth functioning and user-friendly experience.
-- Spearheaded development and implementation of a state-of-the-art surgery module.
-- Enabled users to book surgeries conveniently through smartphones.
+I'm continuously expanding my knowledge in Flutter and exploring advanced topics in state management and performance optimization techniques. Additionally, I'm learning iOS development to broaden my skill set.
 
-### Flutter Developer  
-**Fiverr & Upwork**  
-March 2022 - April 2023  
-- Enhanced mobile applications' user interface and functionality resulting in improved user experience.
+## 💼 Professional Experience
 
----
+### Atria Technologies
 
-## Education
+- **Flutter Developer** (10/2023 – Present)
+  - Implemented design for healthcare applications, creating aesthetically pleasing and user-friendly interfaces.
+  - Actively participated in developing innovative features to enhance user experience.
+  - Contributed strategically to align development efforts with company's vision and goals.
 
-**BS-IT**  
-University of Sargodha  
-2019 - 2022
+### Mentor Health
 
----
+- **Flutter Developer** (02/2023 – 10/2023)
+  - Maintained and managed health tech application, ensuring smooth functioning and user-friendly experience.
+  - Spearheaded development and implementation of a state-of-the-art surgery module.
+  - Enabled users to book surgeries conveniently through smartphones.
 
-## Skills
+### Fiverr & Upwork
 
-- Flutter
-- Dart
-- API Integration
-- Firebase
-- State Management
-- Git
-- Appwrite
-- UI/UX
+- **Flutter Developer** (03/2022 – 04/2023)
+  - Enhanced mobile applications' user interface and functionality resulting in improved user experience.
 
----
+## 🎓 Certifications
 
-## Personal Projects
+- **Foundations of Project Management** by Google
+- **Foundations of User Experience (UX) Design** by Google
 
-1. **Social Media Platform with Riverpod & Appwrite Integration**
-2. **Augmented Reality Interior Design App for Personalized Decor**
-3. **Online Snake Game with Firebase & Firestore Integration**
-4. **Utility Task Manager with Local Storage**
-5. **Habit Tracking App for Personal Growth**
-6. **Coffee Application inspired from Dribbble**
-7. **Modern Money Management App with Dribbble Influence**
+## 📫 Get in Touch
 
----
-
-## Certifications
-
-- **Foundations of User Experience UX-Design** (Google)
-- **AI & Robotics** (NAVTTC)
-
----
-
-## Languages
-
-- English: Professional Working Proficiency
-- Urdu: Native or Bilingual Proficiency
-
----
-
+- **Email**: temoorx@gmail.com
+- **Phone**: +92 3083583661
+- **Location**: Karachi, Pakistan
+- **LinkedIn**: [Muhammad Taimoor](https://www.linkedin.com/in/temoorx)
+- **GitHub**: [temoorx](https://github.com/temoorx)
