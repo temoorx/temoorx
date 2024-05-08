@@ -8,8 +8,8 @@ I'm a Flutter Developer passionate about delivering engaging and visually compel
 
 ## 🛠 Technologies & Tools
 
-- **Languages**: Dart
-- **Frameworks**: Flutter
+- **Languages**: Dart, Swift, Golang
+- **Frameworks**: Flutter, SwiftUI
 - **APIs/SDKs**: Firebase
 - **Tools**: Visual Studio Code, Android Studio, XCode, Git, Postman
 - **Operating Systems**: macOS, Windows, Linux
