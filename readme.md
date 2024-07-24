@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 
 ## 👨‍💻 About Me
 
-I'm a Flutter Developer passionate about delivering engaging and visually compelling applications with user-friendly interactions. With significant experience in UI/UX design and cross-platform mobile development, I strive to create delightful user experiences on both iOS and Android platforms using Flutter.
+I'm a Flutter mobile application developer passionate about delivering engaging and visually compelling applications with user-friendly interactions that drive business growth and improve user experience. Experienced in cross-platform mobile development using Flutter and native iOS development using SwiftUI.
 
 ## 🛠 Technologies & Tools
 
