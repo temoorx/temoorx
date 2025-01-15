@@ -22,16 +22,16 @@ I'm continuously expanding my knowledge in Flutter and exploring advanced topics
 
 ## 💼 Professional Experience
 
-### Atria Technologies
+### Online Care
 
-- **Flutter Developer** (10/2023 – Present)
+- **Flutter Developer** (08/2024 – Present)
   - Implemented design for healthcare applications, creating aesthetically pleasing and user-friendly interfaces.
   - Actively participated in developing innovative features to enhance user experience.
   - Contributed strategically to align development efforts with company's vision and goals.
 
 ### Mentor Health
 
-- **Flutter Developer** (02/2023 – 10/2023)
+- **Flutter Developer** (02/2023 – 07/2024)
   - Maintained and managed health tech application, ensuring smooth functioning and user-friendly experience.
   - Spearheaded development and implementation of a state-of-the-art surgery module.
   - Enabled users to book surgeries conveniently through smartphones.
