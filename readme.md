@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Taimoor!
+# 👋 Hi, I'm Taimoor Taak!
 
 Welcome to my GitHub profile.
 
